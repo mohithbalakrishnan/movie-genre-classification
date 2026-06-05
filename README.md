@@ -75,7 +75,7 @@ movie-genre-classification/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/movie-genre-classification.git
+git clone https://github.com/mohithbalakrishnan/movie-genre-classification.git
 cd movie-genre-classification
 
 2. Install dependencies
